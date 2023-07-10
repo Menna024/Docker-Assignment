@@ -1,7 +1,6 @@
-# Docker-Assignment
+# Docker1
 
-                                Assignment 1 Question 
-                                   (Spring App)
+                                                                    Spring App
 
 Create the desired steps in the Dockerfile to finish the deployment of the application.
 
